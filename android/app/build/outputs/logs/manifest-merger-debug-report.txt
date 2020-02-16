@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/e552c27cd7c7d645183974a5c722ee66/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/56e10477f61a165c38170a59903a869e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/22974a58582918f619f1e8fd5582eb23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/677d2ff29fabe5c8b2af0ea83ad55090/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/edb7fe752e1973d04b44841a180d5a2d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/33fbd157ac62b66fd4780fc2fd7d2733/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/81a7852d02b99eec1540118556ee790c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/ed021a06dbd6f9add3036a8b624b2679/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d4b65ce6ae3f9e63912a0cb0fa7f1868/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/ac8d455eea4023ce487bdafdd37a6f77/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/5a4936aa2d1ed52dbe2175402197f13d/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/566a8d9ec4c919ffeb557725adbaadab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/f2c74ca606049376fc6b2e3fd45a12ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/fce8d6dc18cf4b3a676f13c14951f1a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/72ff7013fd25af6975efe5703ea18b07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/604cbb1ca40b40d476f4f8e555cc8950/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/fd0bbdd0cff27a62720efe3d5103d682/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a535eb876695247b55f92e57056e43c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/3ae4cdf88a06eede53b1974cff3f35f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/6283d6761826714a4f1e2f511a887342/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/9bb23ec94f9d943122f9d44364a13b56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a7943297016f7a1d20fb3592ff8ce202/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a1eca12f841e725e914893346400443b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d34310dd99a7f1d6a839202475cd9140/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/90a73914484eaa04a6fc249de83c1cd3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/aebfde30d3853dcb7b8aea64e899f52f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/6ccac88277da4716a5171fb81dfb45ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/eabcd92260559fc030012797600adceb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/7536709178b778fc0fe2879928e05db6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/8ed8ddccdc419e2b2259906cb5ab724c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/4701a7c199f1d8dc9923fdf3d8c7b5d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/158219a6a93b09927f82349c22bd0eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/210056034f33c6da88e4e12252a9eb4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/28a4053767f3e5e3ce98bb396a5d354b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d9541097ab3c43a1dd1bf2074cc88b8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/8a6b4705e9f31b9081c00c8bd0a00b92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/4d35013282f6f272f9e5a7300cf670e5/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/e552c27cd7c7d645183974a5c722ee66/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/e552c27cd7c7d645183974a5c722ee66/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/5a4936aa2d1ed52dbe2175402197f13d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/5a4936aa2d1ed52dbe2175402197f13d/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/90a73914484eaa04a6fc249de83c1cd3/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/90a73914484eaa04a6fc249de83c1cd3/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/aebfde30d3853dcb7b8aea64e899f52f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/aebfde30d3853dcb7b8aea64e899f52f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/90a73914484eaa04a6fc249de83c1cd3/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.zdrowykoszykapp.MainActivity
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/e552c27cd7c7d645183974a5c722ee66/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/e552c27cd7c7d645183974a5c722ee66/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/56e10477f61a165c38170a59903a869e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/56e10477f61a165c38170a59903a869e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/22974a58582918f619f1e8fd5582eb23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/22974a58582918f619f1e8fd5582eb23/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/677d2ff29fabe5c8b2af0ea83ad55090/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/677d2ff29fabe5c8b2af0ea83ad55090/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/edb7fe752e1973d04b44841a180d5a2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/edb7fe752e1973d04b44841a180d5a2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/33fbd157ac62b66fd4780fc2fd7d2733/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/33fbd157ac62b66fd4780fc2fd7d2733/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/81a7852d02b99eec1540118556ee790c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/81a7852d02b99eec1540118556ee790c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/ed021a06dbd6f9add3036a8b624b2679/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/ed021a06dbd6f9add3036a8b624b2679/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d4b65ce6ae3f9e63912a0cb0fa7f1868/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d4b65ce6ae3f9e63912a0cb0fa7f1868/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/ac8d455eea4023ce487bdafdd37a6f77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/ac8d455eea4023ce487bdafdd37a6f77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/5a4936aa2d1ed52dbe2175402197f13d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/5a4936aa2d1ed52dbe2175402197f13d/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/566a8d9ec4c919ffeb557725adbaadab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/566a8d9ec4c919ffeb557725adbaadab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/f2c74ca606049376fc6b2e3fd45a12ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/f2c74ca606049376fc6b2e3fd45a12ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/fce8d6dc18cf4b3a676f13c14951f1a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/fce8d6dc18cf4b3a676f13c14951f1a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/72ff7013fd25af6975efe5703ea18b07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/72ff7013fd25af6975efe5703ea18b07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/604cbb1ca40b40d476f4f8e555cc8950/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/604cbb1ca40b40d476f4f8e555cc8950/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/fd0bbdd0cff27a62720efe3d5103d682/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/fd0bbdd0cff27a62720efe3d5103d682/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a535eb876695247b55f92e57056e43c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a535eb876695247b55f92e57056e43c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/3ae4cdf88a06eede53b1974cff3f35f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/3ae4cdf88a06eede53b1974cff3f35f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/6283d6761826714a4f1e2f511a887342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/6283d6761826714a4f1e2f511a887342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/9bb23ec94f9d943122f9d44364a13b56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/9bb23ec94f9d943122f9d44364a13b56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a7943297016f7a1d20fb3592ff8ce202/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a7943297016f7a1d20fb3592ff8ce202/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a1eca12f841e725e914893346400443b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/a1eca12f841e725e914893346400443b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d34310dd99a7f1d6a839202475cd9140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d34310dd99a7f1d6a839202475cd9140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/90a73914484eaa04a6fc249de83c1cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/90a73914484eaa04a6fc249de83c1cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/aebfde30d3853dcb7b8aea64e899f52f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/aebfde30d3853dcb7b8aea64e899f52f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/6ccac88277da4716a5171fb81dfb45ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/6ccac88277da4716a5171fb81dfb45ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/eabcd92260559fc030012797600adceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/eabcd92260559fc030012797600adceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/7536709178b778fc0fe2879928e05db6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/7536709178b778fc0fe2879928e05db6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/8ed8ddccdc419e2b2259906cb5ab724c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/8ed8ddccdc419e2b2259906cb5ab724c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/4701a7c199f1d8dc9923fdf3d8c7b5d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/4701a7c199f1d8dc9923fdf3d8c7b5d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/158219a6a93b09927f82349c22bd0eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/158219a6a93b09927f82349c22bd0eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/210056034f33c6da88e4e12252a9eb4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/210056034f33c6da88e4e12252a9eb4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/28a4053767f3e5e3ce98bb396a5d354b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/28a4053767f3e5e3ce98bb396a5d354b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d9541097ab3c43a1dd1bf2074cc88b8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/d9541097ab3c43a1dd1bf2074cc88b8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/8a6b4705e9f31b9081c00c8bd0a00b92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/8a6b4705e9f31b9081c00c8bd0a00b92/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/4d35013282f6f272f9e5a7300cf670e5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/szymonradosz/.gradle/caches/transforms-2/files-2.1/4d35013282f6f272f9e5a7300cf670e5/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/szymonradosz/Desktop/projects/zdrowyKoszykApp/android/app/src/debug/AndroidManifest.xml:5:22-75
