@@ -7,3 +7,4 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 
 1. in one window: react-native start --reset-cache
 2. in second: npx react-native run-ios
+
